@@ -127,13 +127,13 @@ Here:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/1109HARSH/Algorithms_and_data_structures-
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd <YOUR_PROJECT_FOLDER>
+    cd Algorithms_and_data_structures-
 ```
 
 ### 3. Install Required Packages
