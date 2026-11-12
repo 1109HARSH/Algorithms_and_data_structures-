@@ -1,5 +1,3 @@
-# Algorithms_and_data_structures-
-
 # Algorithms and Data Structures – Problem 11
 ## Union-Find (Disjoint-Set Union) & Percolation
 
